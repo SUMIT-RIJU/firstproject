@@ -6,6 +6,6 @@ while n>0:
     rev=rev*10+d
     n=n//10
 if temp==rev:
-    print("this is a palindromeno")
+    print("this is a palindromeno:")
 else:
-    print("it is not a palindrome no")
+    print("it is not a palindrome no:")
