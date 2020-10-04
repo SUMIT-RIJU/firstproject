@@ -1,2 +1,3 @@
 # firstproject
-simple python code
+
+python codes for different use cases.
